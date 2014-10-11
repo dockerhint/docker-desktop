@@ -18,7 +18,7 @@
 
 
 FROM ubuntu:14.04
-MAINTAINER Roberto G. Hashioka "roberto_hashioka@hotmail.com"
+MAINTAINER AnyBucket Project "info@builtdock.com"
 
 RUN apt-get update -y
 RUN apt-get upgrade -y
